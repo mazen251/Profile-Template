@@ -94,10 +94,10 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## 📊 Github Stats
 
 
-<details> 
+
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
@@ -108,7 +108,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+
 
 
 
@@ -116,9 +116,9 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:mazen.walid362@gmail.com"><img src="https://img.icons8.com/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/mazen251"><img src="https://img.icons8.com/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mazen-walid-225582208/"><img src="https://img.icons8.com/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:mazen.walid362@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail"/></a>
+	<a href="https://github.com/mazen251"><img src="https://img.icons8.com/?size=100&id=12598&format=png&color=000000" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/mazen-walid-225582208/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn"/></a>
 </p>
 
 
